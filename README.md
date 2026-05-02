@@ -1,1 +1,1 @@
-# prime-video-EDA
+# Prime Video Content Strategy Analysis
